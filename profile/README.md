@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="./public/Images/Logo/telvia-logo.png" alt="Telvia Finance" width="150" height="150" />
+  
+  <img width="100" height="100" alt="telvia-logo" src="https://github.com/user-attachments/assets/8299f6e2-ed5a-4abc-9930-84439bcbaec7" />
   
   # Telvia Finance
   
