@@ -562,13 +562,7 @@ pnpm deploy       # Deploy to Vercel
 - 📖 **Documentation**: [telvia.gitbook.io/telvia-docs](https://telvia.gitbook.io/telvia-docs)
 - 📊 **Pitch Deck**: [Canva Presentation](https://www.canva.com/design/DAG89f6k-Jc/LrAtAmz-ynbwPmq8EHY1VA/edit?utm_content=DAG89f6k-Jc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - 🎥 **Pitch Video**: [YouTube](https://youtu.be/LXt55_fhAiQ?si=dqJHd0Ous2ALbua1)
-- 🎬 **Demo Video**: Coming Soon
-
-### 🏢 **Community & Support**
-- 💬 **Discord**: Join our community (Coming Soon)
-- 📧 **Email**: support@telvia.finance
-- 🐦 **Twitter**: @TelviaFinance (Coming Soon)
-- 📱 **Telegram**: t.me/TelviaFinance (Coming Soon)
+- 🎬 **Demo Video**: [YouTube](https://youtu.be/J61Kpn2O_QE?si=GeWR4GNYGHNj0WOa)
 
 ### 🛠️ **Developer Resources**
 - 📦 **GitHub**: [github.com/telvia-finance](https://github.com/telvia-finance)
