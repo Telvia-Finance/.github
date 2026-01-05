@@ -7,82 +7,83 @@
   
   *Simplifying decentralized finance through intelligent automation and AI-powered strategies*
   
-  [![Website](https://img.shields.io/badge/<_Website-Live-4CAF50?style=for-the-badge)](https://telvia-finance.vercel.app)
-  [![Documentation](https://img.shields.io/badge/=�_Docs-GitBook-2196F3?style=for-the-badge)](https://telvia.gitbook.io/telvia-docs)
-  [![Pitch Deck](https://img.shields.io/badge/=�_Pitch-Canva-FF6B6B?style=for-the-badge)](https://www.canva.com/design/DAG89f6k-Jc/LrAtAmz-ynbwPmq8EHY1VA/edit?utm_content=DAG89f6k-Jc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-  [![Demo Video](https://img.shields.io/badge/<�_Video-YouTube-FF0000?style=for-the-badge)](https://youtu.be/LXt55_fhAiQ?si=dqJHd0Ous2ALbua1)
+  <br/>
+  
+  [![Website](https://img.shields.io/badge/Website-Live-4CAF50?style=for-the-badge&logo=vercel&logoColor=white)](https://telvia-finance.vercel.app)
+  [![Documentation](https://img.shields.io/badge/Docs-GitBook-2196F3?style=for-the-badge&logo=gitbook&logoColor=white)](https://telvia.gitbook.io/telvia-docs)
+  [![Pitch Deck](https://img.shields.io/badge/Pitch-Canva-FF6B6B?style=for-the-badge&logo=canva&logoColor=white)](https://www.canva.com/design/DAG89f6k-Jc/LrAtAmz-ynbwPmq8EHY1VA/edit?utm_content=DAG89f6k-Jc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+  [![Demo Video](https://img.shields.io/badge/Video-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/LXt55_fhAiQ?si=dqJHd0Ous2ALbua1)
   
   [![Mantle Sepolia](https://img.shields.io/badge/Blockchain-Mantle_Sepolia-2E8B57?style=for-the-badge&logo=ethereum&logoColor=white)]()
-  [![MIT License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
+  [![MIT License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](LICENSE)
   
 </div>
 
 ---
 
-## =� Table of Contents
+## 📖 Table of Contents
 
-- [What is Telvia Finance?](#-what-is-telvia-finance)
-- [The Problem](#-the-problem)
-- [Our Solution](#-our-solution)
-- [How It Works](#-how-it-works)
-- [Architecture](#-architecture)
-- [Technology Stack](#-technology-stack)
-- [Deployed Contracts](#-deployed-contracts)
-- [Getting Started](#-getting-started)
-- [Links & Resources](#-links--resources)
-- [License](#-license)
+- [What is Telvia Finance?](#🎯-what-is-telvia-finance)
+- [The Problem](#🚨-the-problem)
+- [Our Solution](#💡-our-solution)
+- [How It Works](#⚙️-how-it-works)
+- [Architecture](#🏗️-architecture)
+- [Technology Stack](#🛠️-technology-stack)
+- [Deployed Contracts](#📋-deployed-contracts)
+- [Getting Started](#🚀-getting-started)
+- [Links & Resources](#🔗-links--resources)
+- [License](#📄-license)
 
 ---
 
-## <� What is Telvia Finance?
+## 🎯 What is Telvia Finance?
 
 **Telvia Finance** is a revolutionary DeFi platform that democratizes sophisticated yield farming strategies through artificial intelligence and automated portfolio management. Built on the robust Mantle Sepolia testnet, Telvia bridges the gap between complex DeFi protocols and everyday crypto investors.
 
 Our platform transforms the traditionally fragmented and technical world of decentralized finance into an intuitive, intelligent ecosystem where users can maximize their returns without needing deep technical knowledge or constant market monitoring.
 
-### < Key Highlights
+### 🌟 Key Highlights
 
-- **> AI-Powered Strategy Engine** - Machine learning algorithms analyze market conditions and recommend optimal yield farming strategies
-- **= Automated Vault Management** - Set-and-forget portfolio management with secure smart contract integration
-- **=� Real-Time Analytics** - Comprehensive dashboard with live performance tracking and detailed insights
-- **< Multi-Protocol Integration** - Access to 9+ leading DeFi protocols through a single, unified interface
-- **=� User-Centric Design** - Intuitive interface designed for both beginners and advanced users
-- **� Instant Network Setup** - Seamless Mantle Sepolia integration with automatic wallet configuration
+- **🤖 AI-Powered Strategy Engine** - Machine learning algorithms analyze market conditions and recommend optimal yield farming strategies
+- **🔒 Automated Vault Management** - Set-and-forget portfolio management with secure smart contract integration
+- **📊 Real-Time Analytics** - Comprehensive dashboard with live performance tracking and detailed insights
+- **🌐 Multi-Protocol Integration** - Access to 9+ leading DeFi protocols through a single, unified interface
+- **📱 User-Centric Design** - Intuitive interface designed for both beginners and advanced users
+- **⚡ Instant Network Setup** - Seamless Mantle Sepolia integration with automatic wallet configuration
 
 ---
 
-## =� The Problem
+## 🚨 The Problem
 
 The DeFi ecosystem, while revolutionary, presents significant barriers that prevent mainstream adoption:
 
-### =
- **Complexity Overload**
+### 🔍 **Complexity Overload**
 - **Technical Barriers**: Understanding smart contracts, gas fees, and protocol mechanics
 - **Information Fragmentation**: Critical data scattered across multiple platforms and interfaces
 - **Decision Paralysis**: Overwhelming number of protocols, tokens, and strategies without clear guidance
 
-### � **Risk Management Challenges**
+### ⚠️ **Risk Management Challenges**
 - **Hidden Risks**: Impermanent loss, smart contract vulnerabilities, and protocol-specific risks
 - **Market Volatility**: Rapid market changes requiring constant monitoring and strategy adjustments
 - **Liquidity Concerns**: Difficulty in assessing real liquidity and exit strategies
 
-### =� **Inefficiency & High Costs**
+### 💸 **Inefficiency & High Costs**
 - **Gas Fee Optimization**: Multiple transactions across different protocols leading to high costs
 - **Suboptimal Yields**: Manual strategy selection often results in missed opportunities
 - **Time Investment**: Requiring 3-5 hours daily for effective DeFi portfolio management
 
-### =' **Infrastructure Limitations**
+### 🔧 **Infrastructure Limitations**
 - **Wallet Compatibility**: Complex network setups and configuration issues
 - **Cross-Protocol Operations**: Difficulty in managing assets across multiple DeFi protocols
 - **Real-Time Monitoring**: Lack of unified dashboards for comprehensive portfolio oversight
 
 ---
 
-## =� Our Solution
+## 💡 Our Solution
 
 Telvia Finance addresses these challenges through a comprehensive, AI-driven platform that makes DeFi accessible, profitable, and secure for everyone.
 
-### <� **Intelligent Automation**
+### 🎯 **Intelligent Automation**
 
 **AI Strategy Recommendation Engine**
 - Advanced machine learning algorithms analyze 500+ market indicators
@@ -96,7 +97,7 @@ Telvia Finance addresses these challenges through a comprehensive, AI-driven pla
 - Early warning system for potential protocol vulnerabilities
 - Intelligent diversification recommendations to minimize exposure
 
-### =� **Security & Trust**
+### 🛡️ **Security & Trust**
 
 **Battle-Tested Smart Contracts**
 - Multi-signature wallet integration for enhanced security
@@ -110,7 +111,7 @@ Telvia Finance addresses these challenges through a comprehensive, AI-driven pla
 - Multi-layer security protocols and regular security audits
 - Partnership with leading cybersecurity firms for ongoing protection
 
-### <� **Exceptional User Experience**
+### 🎨 **Exceptional User Experience**
 
 **Unified DeFi Interface**
 - Single dashboard for managing multiple DeFi protocols
@@ -126,9 +127,9 @@ Telvia Finance addresses these challenges through a comprehensive, AI-driven pla
 
 ---
 
-## � How It Works
+## ⚙️ How It Works
 
-### = **The Telvia Finance Workflow**
+### 🔄 **The Telvia Finance Workflow**
 
 ```mermaid
 graph TD
@@ -142,14 +143,14 @@ graph TD
     H --> F
 ```
 
-### 1� **Intelligent Onboarding**
+### 1️⃣ **Intelligent Onboarding**
 **Connect & Configure**
 - One-click wallet connection supporting 15+ wallet providers
 - Automatic Mantle Sepolia network addition and configuration
 - Risk tolerance assessment through interactive questionnaire
 - Goal setting and investment timeline planning
 
-### 2� **AI-Powered Analysis**
+### 2️⃣ **AI-Powered Analysis**
 **Market Intelligence**
 - Real-time analysis of 9 integrated DeFi protocols
 - Historical performance data analysis spanning 2+ years
@@ -162,14 +163,14 @@ graph TD
 - Yield prediction modeling with 85% accuracy rate
 - Dynamic strategy adjustment based on changing market conditions
 
-### 3� **Automated Execution**
+### 3️⃣ **Automated Execution**
 **Smart Contract Deployment**
 - Automated vault creation tailored to user preferences
 - Gas optimization for minimal transaction costs
 - Multi-protocol asset allocation in single transaction
 - Slippage protection and MEV resistance mechanisms
 
-### 4� **Continuous Optimization**
+### 4️⃣ **Continuous Optimization**
 **Performance Monitoring**
 - Real-time portfolio performance tracking
 - Automated rebalancing based on predefined parameters
@@ -178,41 +179,41 @@ graph TD
 
 ---
 
-## <� Architecture
+## 🏗️ Architecture
 
-### < **System Architecture Overview**
+### 🌐 **System Architecture Overview**
 
 ```
-                                                             
-                    Frontend Layer                           
-                                                             $
-  Next.js 15.5.9 + React 19 + TypeScript + Tailwind CSS   
-  RainbowKit + Wagmi 2.18.1 + TanStack Query               
-                                                             
-                              
-                                                             
-                 Blockchain Interface                        
-                                                             $
-  Viem 2.38.2 + Custom Network Manager + Smart Contracts   
-  Multi-signature Wallet Integration                        
-                                                             
-                              
-                                                             
-                 Smart Contract Layer                        
-                                                             $
-  9 Vault Contracts + Token Management + Yield Optimization 
-  Security Modules + Emergency Controls                     
-                                                             
-                              
-                                                             
-                 DeFi Protocol Integration                   
-                                                             $
-  Aurelius " Compound " Demex " Dolomite " Fluid " Init    
-  Kinza " Lendle " Myso " Multi-Protocol Aggregation       
-                                                             
+┌─────────────────────────────────────────────────────────────┐
+│                    Frontend Layer                           │
+├─────────────────────────────────────────────────────────────┤
+│  Next.js 15.5.9 + React 19 + TypeScript + Tailwind CSS   │
+│  RainbowKit + Wagmi 2.18.1 + TanStack Query               │
+└─────────────────────────────────────────────────────────────┘
+                              │
+┌─────────────────────────────────────────────────────────────┐
+│                 Blockchain Interface                        │
+├─────────────────────────────────────────────────────────────┤
+│  Viem 2.38.2 + Custom Network Manager + Smart Contracts   │
+│  Multi-signature Wallet Integration                        │
+└─────────────────────────────────────────────────────────────┘
+                              │
+┌─────────────────────────────────────────────────────────────┐
+│                 Smart Contract Layer                        │
+├─────────────────────────────────────────────────────────────┤
+│  9 Vault Contracts + Token Management + Yield Optimization │
+│  Security Modules + Emergency Controls                     │
+└─────────────────────────────────────────────────────────────┘
+                              │
+┌─────────────────────────────────────────────────────────────┐
+│                 DeFi Protocol Integration                   │
+├─────────────────────────────────────────────────────────────┤
+│  Aurelius • Compound • Demex • Dolomite • Fluid • Init    │
+│  Kinza • Lendle • Myso • Multi-Protocol Aggregation       │
+└─────────────────────────────────────────────────────────────┘
 ```
 
-### =' **Core Components**
+### 🔧 **Core Components**
 
 **Frontend Architecture**
 - **Component-Based Design**: Modular, reusable React components
@@ -234,7 +235,7 @@ graph TD
 
 ---
 
-## =� Technology Stack
+## 🛠️ Technology Stack
 
 <table>
 <tr>
@@ -286,8 +287,7 @@ graph TD
 </tr>
 </table>
 
-### =
- **Technology Choices Rationale**
+### 🔍 **Technology Choices Rationale**
 
 **Why Next.js 15?**
 - Server-side rendering for optimal SEO
@@ -309,9 +309,9 @@ graph TD
 
 ---
 
-## =� Deployed Contracts
+## 📋 Deployed Contracts
 
-### =� **Token Ecosystem**
+### 💰 **Token Ecosystem**
 
 <table>
 <tr>
@@ -388,7 +388,7 @@ graph TD
 </tr>
 </table>
 
-### <� **Vault Infrastructure**
+### 🏦 **Vault Infrastructure**
 
 <table>
 <tr>
@@ -402,7 +402,7 @@ graph TD
 <tr>
 <td>AureliusVault</td>
 <td>5.00%</td>
-<td>=� Medium</td>
+<td>🟡 Medium</td>
 <td><code>0x894C458dc459EFA5e06C46E0CAbF85358414a8bB</code></td>
 <td>Multi-Protocol Aggregator</td>
 <td>$1.2M</td>
@@ -410,7 +410,7 @@ graph TD
 <tr>
 <td>CompoundVault</td>
 <td>4.00%</td>
-<td>=� Low</td>
+<td>🟢 Low</td>
 <td><code>0xcf34fBc80aadCA902e0256fFB92a9BA722C9fD93</code></td>
 <td>Compound Finance</td>
 <td>$980K</td>
@@ -418,7 +418,7 @@ graph TD
 <tr>
 <td>DemexVault</td>
 <td>6.00%</td>
-<td>=� Medium</td>
+<td>🟡 Medium</td>
 <td><code>0x7eEB6e9EC39036EEAa3E2367ba787b3c42EFB600</code></td>
 <td>DEX Protocol</td>
 <td>$756K</td>
@@ -426,7 +426,7 @@ graph TD
 <tr>
 <td>DolomiteVault</td>
 <td>4.50%</td>
-<td>=� Low</td>
+<td>🟢 Low</td>
 <td><code>0xb57316D4990E451eBDF4B64a0Fd4C9caD80d8d7f</code></td>
 <td>Money Market</td>
 <td>$1.1M</td>
@@ -434,7 +434,7 @@ graph TD
 <tr>
 <td>FluidVault</td>
 <td>5.50%</td>
-<td>=� Medium</td>
+<td>🟡 Medium</td>
 <td><code>0xf278B3b9c98150bDE2293270A72e2E2F0f74Ca9a</code></td>
 <td>Lending Protocol</td>
 <td>$890K</td>
@@ -442,7 +442,7 @@ graph TD
 <tr>
 <td>InitCapitalVault</td>
 <td>6.50%</td>
-<td>=� High</td>
+<td>🟠 High</td>
 <td><code>0xdc149d6289d359bF0d02a7E0474dEb494B740307</code></td>
 <td>Institutional Lending</td>
 <td>$1.4M</td>
@@ -450,7 +450,7 @@ graph TD
 <tr>
 <td>KinzaVault</td>
 <td>4.75%</td>
-<td>=� Low</td>
+<td>🟢 Low</td>
 <td><code>0x185427782C214f1455180bf6f1E47Cd52E9096d6</code></td>
 <td>Money Market</td>
 <td>$670K</td>
@@ -458,7 +458,7 @@ graph TD
 <tr>
 <td>LendleVault</td>
 <td>5.20%</td>
-<td>=� Medium</td>
+<td>🟡 Medium</td>
 <td><code>0xC80Cb777c3740C63751430FAfdaD32524f69c5c2</code></td>
 <td>Lending Protocol</td>
 <td>$823K</td>
@@ -466,14 +466,14 @@ graph TD
 <tr>
 <td>MysoVault</td>
 <td>7.00%</td>
-<td>=4 Very High</td>
+<td>🔴 Very High</td>
 <td><code>0xB25c93f98e05a3db58fae281c9226281D2C1078D</code></td>
 <td>High-Yield Strategy</td>
 <td>$445K</td>
 </tr>
 </table>
 
-### =� **Contract Statistics**
+### 📊 **Contract Statistics**
 - **Total Value Locked**: $8.2M+ across all vaults
 - **Average APY**: 5.38%
 - **Number of Active Vaults**: 9
@@ -483,16 +483,16 @@ graph TD
 
 ---
 
-## =� Getting Started
+## 🚀 Getting Started
 
-### =� **Prerequisites**
+### 📋 **Prerequisites**
 
 - **Node.js** `>= 18.0.0`
 - **pnpm** `>= 8.0.0`
 - **MetaMask** or compatible Web3 wallet
 - **Mantle Sepolia** testnet access
 
-### � **Quick Start**
+### ⚡ **Quick Start**
 
 ```bash
 # Clone the repository
@@ -512,7 +512,7 @@ pnpm dev
 
 Open [http://localhost:3000](http://localhost:3000) to access the application.
 
-### =' **Development Commands**
+### 🔧 **Development Commands**
 
 ```bash
 # Development
@@ -530,7 +530,7 @@ pnpm test:coverage # Generate coverage report
 pnpm deploy       # Deploy to Vercel
 ```
 
-### =� **Using Telvia Finance**
+### 📱 **Using Telvia Finance**
 
 1. **Connect Your Wallet**
    - Visit [telvia-finance.vercel.app](https://telvia-finance.vercel.app)
@@ -554,35 +554,35 @@ pnpm deploy       # Deploy to Vercel
 
 ---
 
-## = Links & Resources
+## 🔗 Links & Resources
 
-### =� **Documentation & Resources**
-- < **Live Application**: [telvia-finance.vercel.app](https://telvia-finance.vercel.app)
-- =� **Documentation**: [telvia.gitbook.io/telvia-docs](https://telvia.gitbook.io/telvia-docs)
-- =� **Pitch Deck**: [Canva Presentation](https://www.canva.com/design/DAG89f6k-Jc/LrAtAmz-ynbwPmq8EHY1VA/edit?utm_content=DAG89f6k-Jc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-- <� **Pitch Video**: [YouTube](https://youtu.be/LXt55_fhAiQ?si=dqJHd0Ous2ALbua1)
-- <� **Demo Video**: Coming Soon
+### 📚 **Documentation & Resources**
+- 🌐 **Live Application**: [telvia-finance.vercel.app](https://telvia-finance.vercel.app)
+- 📖 **Documentation**: [telvia.gitbook.io/telvia-docs](https://telvia.gitbook.io/telvia-docs)
+- 📊 **Pitch Deck**: [Canva Presentation](https://www.canva.com/design/DAG89f6k-Jc/LrAtAmz-ynbwPmq8EHY1VA/edit?utm_content=DAG89f6k-Jc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 🎥 **Pitch Video**: [YouTube](https://youtu.be/LXt55_fhAiQ?si=dqJHd0Ous2ALbua1)
+- 🎬 **Demo Video**: Coming Soon
 
-### <� **Community & Support**
-- =� **Discord**: Join our community (Coming Soon)
-- =� **Email**: support@telvia.finance
-- =& **Twitter**: @TelviaFinance (Coming Soon)
-- =� **Telegram**: t.me/TelviaFinance (Coming Soon)
+### 🏢 **Community & Support**
+- 💬 **Discord**: Join our community (Coming Soon)
+- 📧 **Email**: support@telvia.finance
+- 🐦 **Twitter**: @TelviaFinance (Coming Soon)
+- 📱 **Telegram**: t.me/TelviaFinance (Coming Soon)
 
-### =� **Developer Resources**
-- =� **GitHub**: [github.com/telvia-finance](https://github.com/telvia-finance)
-- =� **Issue Tracker**: [GitHub Issues](https://github.com/telvia-finance/web/issues)
-- = **API Documentation**: [docs.telvia.finance/api](https://docs.telvia.finance/api)
-- =� **Analytics**: [analytics.telvia.finance](https://analytics.telvia.finance)
+### 🛠️ **Developer Resources**
+- 📦 **GitHub**: [github.com/telvia-finance](https://github.com/telvia-finance)
+- 📋 **Issue Tracker**: [GitHub Issues](https://github.com/telvia-finance/web/issues)
+- 🔄 **API Documentation**: [docs.telvia.finance/api](https://docs.telvia.finance/api)
+- 📊 **Analytics**: [analytics.telvia.finance](https://analytics.telvia.finance)
 
-### = **Security & Audits**
-- =� **Security Policy**: [SECURITY.md](SECURITY.md)
-- =� **Audit Reports**: [audits.telvia.finance](https://audits.telvia.finance)
-- = **Bug Bounty**: [bounty.telvia.finance](https://bounty.telvia.finance)
+### 🔐 **Security & Audits**
+- 🛡️ **Security Policy**: [SECURITY.md](SECURITY.md)
+- 📋 **Audit Reports**: [audits.telvia.finance](https://audits.telvia.finance)
+- 🐛 **Bug Bounty**: [bounty.telvia.finance](https://bounty.telvia.finance)
 
 ---
 
-## =� License
+## 📄 License
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
@@ -614,7 +614,7 @@ SOFTWARE.
 
 <div align="center">
 
-### < Star us on GitHub if you find Telvia Finance useful!
+### 🌟 Star us on GitHub if you find Telvia Finance useful!
 
 [![GitHub Stars](https://img.shields.io/github/stars/telvia-finance/web?style=social)](https://github.com/telvia-finance/web/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/telvia-finance/web?style=social)](https://github.com/telvia-finance/web/network/members)
@@ -622,10 +622,10 @@ SOFTWARE.
 
 ---
 
-**Built with d by the Telvia Finance Team**
+**Built with ❤️ by the Telvia Finance Team**
 
 *Revolutionizing DeFi, one intelligent strategy at a time*
 
-[=� Get Started](https://telvia-finance.vercel.app) " [=� Learn More](https://telvia.gitbook.io/telvia-docs) " [> Contribute](CONTRIBUTING.md)
+[🚀 Get Started](https://telvia-finance.vercel.app) • [📚 Learn More](https://telvia.gitbook.io/telvia-docs) • [🤝 Contribute](CONTRIBUTING.md)
 
 </div>
